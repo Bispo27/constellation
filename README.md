@@ -1,6 +1,13 @@
-# Initial page
+---
+description: >-
+  This project aims to simulate a set of satellites orbiting the moon. In it we
+  have two satellite prototypes whose purpose is to show mountainous regions and
+  lunar craters, and their depths.
+---
 
-![](.gitbook/assets/st.jpg)
+# Project Specification
+
+![](.gitbook/assets/whatsapp-image-2019-10-20-at-05.46.36.jpeg)
 
 ## Can I become who I want to be?
 
