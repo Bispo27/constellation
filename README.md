@@ -7,15 +7,37 @@ description: >-
 
 # Project Specification
 
-![](.gitbook/assets/whatsapp-image-2019-10-20-at-05.46.36.jpeg)
+![ Logo of project](.gitbook/assets/whatsapp-image-2019-10-20-at-05.46.36.jpeg)
 
-## Can I become who I want to be?
+Item List
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+* 2x Arduino pró-mini
 
-## Have you had a chance to answer the previous question?
+![](.gitbook/assets/arduinopromini.jpg)
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+ 
+
+* 2x X-Bee Module
+
+![](.gitbook/assets/xbee.jpg)
+
+* 2x Sensor Ultrassonic
+
+![](.gitbook/assets/ultrassonico.jpg)
+
+* Motor DC 9V 
+
+![](.gitbook/assets/motor.jpg)
+
+* Mosfet FQP30N06L 60V
+
+![](.gitbook/assets/mosfet.jpg)
+
+
+
+## Programming languages used
+
+In this project we used the C and C ++ programming language, as well as Proteus software to simulate some electrical circuits. In addition, we use tools such as 3D printer and laser cutting machine to build the prototype.
 
 
 
