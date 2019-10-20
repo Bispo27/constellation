@@ -18,9 +18,11 @@ Ultrasonic ultrasonic6(trigger, echo6);
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
+  pinMode(A0, INPUT);
 }
 
 void loop() {
+  float Temp = 2 + analogRead(A0) * 150 / 1023;
   float Dist1, Dist2, Dist3, Dist4, Dist5, Dist6;
   long microsec;
   microsec = ultrasonic1.timing();
@@ -47,6 +49,8 @@ void loop() {
   Serial.print("Dist4: "); Serial.println(Dist4);
   Serial.print("Dist5: "); Serial.println(Dist5);
   Serial.print("Dist6: "); Serial.println(Dist6);
+  Serial.print("Temperatura: "); Serial.println(Temp);
+  Serial.println("");
   
   delay(10);
 }
